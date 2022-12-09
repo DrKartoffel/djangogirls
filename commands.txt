@@ -1,3 +1,7 @@
 myvenv\Scripts\activate
 
 python manage.py runserver
+
+
+workon drkartoffel.pythonanywhere.com
+python manage.py collectstatic
